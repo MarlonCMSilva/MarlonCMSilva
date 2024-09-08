@@ -15,9 +15,6 @@
   <a href="https://github.com/MarlonCMSilva/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarlonCMSIlva&show_icons=true&theme=onedark" />
   </a>
-  <a href="https://github.com/MarlonCMSilva/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonCMSilva&layout=compact&theme=onedark" />
-  </a>
 </div>
 
 </br>
