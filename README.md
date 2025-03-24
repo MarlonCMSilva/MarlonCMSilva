@@ -2,10 +2,13 @@
 
 <div style="display: inline_block">
   <p align="center">
-  Profissional com 5 anos de experiência na área financeira, atualmente em transição de carreira, graduando em Engenharia de Software, e já possuo 
-  habilidades no domínio de layouts de Front-End, frameworks JavaScript e CSS, experiência em construir interfaces comunicando com APIs.
-  desenvolvimento e testes com Django, Postgres e APIs, 
-  experiência com SQL e bancos de dados.
+  <Strong>Desenvolvedor Full Stack Java</Strong> formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, Cursando Superior Tecnólogo em Analise e Desenvolvimento de Sistemas pela UniFECAF.
+  </p>
+  <p align="center">
+    Destaco minhas habilidades em desenvolvimento de layouts de <strong>Front-end</strong>, frameworks JavaScript como React, Angular e Vue.js, estilização com HTML5 e CSS3, além de experiência com frameworks de CSS como      Bootstrap e pré-processadores como SASS/LESS.
+  </p>
+<p align="center">
+Com relação a <strong>Back-end</strong>, experiencia com integração e entrega contínua, desenvolvimento e testes com Java, usando frameworks como Spring e Hibernate. Proficiência em SQL e experiência com bancos de dados     relacionais, como MySQL e PostgreSQL. Conhecimento de bancos de dados NoSQL, como MongoDB.
 </p>
 </div>
 
