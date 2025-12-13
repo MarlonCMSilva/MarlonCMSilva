@@ -57,11 +57,13 @@ Abaixo estão as principais ferramentas e tecnologias que domino:
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarlonCMSilva&show_icons=true&count_private=true&hide_border=true&title_color=4C8EDA&icon_color=1E6FEA&text_color=c9d1d9&bg_color=0000" alt="Marlon Machado" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonCMSilva&layout=compact&hide_border=true&title_color=4C8EDA&text_color=c9d1d9&bg_color=0000" />
+</div>
 
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarlonCMSilva&theme=github_dark" alt="Detalhes do Perfil"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarlonCMSilva&theme=github_dark" alt="Repositórios por Linguagem"/>
 </p>
 
 ### 🤝 Conecte-se Comigo
